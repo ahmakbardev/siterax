@@ -87,6 +87,7 @@ html, body {
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
   /* background-color: #E1DD8B !important; */
 }
 
@@ -2407,7 +2408,7 @@ responsive
 
 #preloader {
   overflow: hidden;
-  background-color: #2a2a2a;
+  background-color: #00564D;
   left: 0;
   right: 0;
   top: 0;
